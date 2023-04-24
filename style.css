@@ -1,0 +1,21 @@
+*{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.color_turquesa{
+    background: #20c1dd
+}
+
+.section_3 img{
+    height: 202px;
+    width: 100%;
+}
+
+.section_2_text i{
+    width: 100%;
+}
